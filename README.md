@@ -9,6 +9,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 NewsZilla is a simple news blog
 
+RUN composer Install
+
 COPY .env.example .env
 
 ADD database credentials in .env
